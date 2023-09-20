@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59941dcd-6050-40b3-87f8-6dd2a9a4a02c" name="Changes" comment="bigger progress">
+    <list default="true" id="59941dcd-6050-40b3-87f8-6dd2a9a4a02c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
     </list>
@@ -64,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695191758049</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="right before completion">
+      <created>1695192634592</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695192634592</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -92,6 +99,7 @@
     <MESSAGE value="start template" />
     <MESSAGE value="slight progress" />
     <MESSAGE value="bigger progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="bigger progress" />
+    <MESSAGE value="right before completion" />
+    <option name="LAST_COMMIT_MESSAGE" value="right before completion" />
   </component>
 </project>
